@@ -18,6 +18,9 @@ This is a RAG implementation using Open Source stack. BioMistral 7B has been use
 [Demo ▶️](https://www.youtube.com/watch?v=A_m3tCqdts4)
 
 ## Implementation on Intel AI PC    
+### Disclaimer   
+This demo is intended only for the purpose of exploring new LLM use cases at the edge and not recommended for production-grade medical chatbot    
+
 ### Device Under Test   
 Processor: Intel® Core™ Ultra 7 165H      
 OS: Windows 11 Pro 23H2   
@@ -56,6 +59,9 @@ Python 3.11.9
    Check the new Collection on the Qdrant Dashboard   
    ![image](https://github.com/user-attachments/assets/13740e55-4e12-4d0f-8267-695d5edeec0a)     
 8. Run the application
+   ```
+   uvicorn app:app   
+   ```
    ![image](https://github.com/user-attachments/assets/5ec90875-be78-4bc9-9acf-09859235e313)    
 #### Sample Outputs
 ![image](https://github.com/user-attachments/assets/94282267-ebf0-46eb-b587-996e886e6cb7)   
