@@ -57,6 +57,9 @@ Python 3.11.9
    ![image](https://github.com/user-attachments/assets/13740e55-4e12-4d0f-8267-695d5edeec0a)     
 8. Run the application
    ![image](https://github.com/user-attachments/assets/5ec90875-be78-4bc9-9acf-09859235e313)    
+#### Sample Outputs
+![image](https://github.com/user-attachments/assets/94282267-ebf0-46eb-b587-996e886e6cb7)   
+![image](https://github.com/user-attachments/assets/37aa70b3-1b6d-49b3-a050-d6d5aef882ee)   
 
  ---
 ## ©️ License 🪪 
