@@ -27,6 +27,9 @@ OS: Windows 11 Pro 23H2
 RAM: 64GB   
 Python 3.11.9   
 
+### Prerequisite   
+Install [Microsoft Visual C++](https://code.visualstudio.com/docs/cpp/config-msvc) compiler toolset required for installing llama-cpp-python       
+
 ### Steps   
 1. Clone this repository
 2. Create a Python virtual environment and install the dependencies   
